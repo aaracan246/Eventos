@@ -27,4 +27,3 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-//Info para poder pushear jej
