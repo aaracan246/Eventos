@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         changeBackgroundButton.setOnClickListener {
 
             // Cambia el fondo al presionar el botón:
-            layout.setBackgroundResource(R.drawable.sonicsocks) // Reemplaza "fondo" con el nombre de tu imagen
+            layout.setBackgroundResource(R.drawable.sonicsocks)
         }
     }
 }
